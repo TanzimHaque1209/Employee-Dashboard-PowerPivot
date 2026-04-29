@@ -73,7 +73,7 @@ The solution leverages **Power Pivot, DAX, PivotTables, PivotCharts, and Slicers
 
 ## 🖼️ Dashboard Preview
 
-![Employee Dashboard](dashboard.png)
+![Employee Dashboard](dashbord.png)
 ---
 
 ## 💡 Project Value
